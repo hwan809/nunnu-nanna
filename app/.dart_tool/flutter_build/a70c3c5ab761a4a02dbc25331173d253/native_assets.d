@@ -1,0 +1,1 @@
+ C:\\Users\\PC\\AndroidStudioProjects\\EyeNote\\.dart_tool\\flutter_build\\a70c3c5ab761a4a02dbc25331173d253\\native_assets.yaml: 

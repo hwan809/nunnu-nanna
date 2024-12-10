@@ -1,0 +1,13 @@
+#Wed Dec 04 22:23:02 KST 2024
+path.3=7/classes.dex
+path.2=1/classes.dex
+path.1=0/classes.dex
+path.0=classes.dex
+base.3=C\:\\Users\\PC\\AndroidStudioProjects\\EyeNote\\build\\app\\intermediates\\dex\\profile\\mergeProjectDexProfile\\7\\classes.dex
+base.2=C\:\\Users\\PC\\AndroidStudioProjects\\EyeNote\\build\\app\\intermediates\\dex\\profile\\mergeProjectDexProfile\\1\\classes.dex
+base.1=C\:\\Users\\PC\\AndroidStudioProjects\\EyeNote\\build\\app\\intermediates\\dex\\profile\\mergeProjectDexProfile\\0\\classes.dex
+base.0=C\:\\Users\\PC\\AndroidStudioProjects\\EyeNote\\build\\app\\intermediates\\dex\\profile\\mergeExtDexProfile\\classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
